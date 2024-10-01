@@ -3,6 +3,8 @@ Oct 1, 2024
 Anna Duan
 
 
+![Merge conflict vibes]([https://raw.githubusercontent.com/annaduan09/max-lift-prediction/master/mens%20lacrosse/plots/Max_Squat_Pred_Marco_Firmender.png](https://github.com/annaduan09/Github-conflict-demo/blob/master/merge%20conflict.png)
+
 In this demo, participants will learn the basics of using Github repositories for version control, and practice the following functions:  
 - **Fork**  
 - **Clone**  
