@@ -3,7 +3,7 @@ Oct 1, 2024
 Anna Duan
 
 
-![Merge conflict vibes]([https://github.com/annaduan09/Github-conflict-demo/blob/master/merge%20conflict.png])
+![Merge conflict vibes]([https://github.com/annaduan09/Github-conflict-demo/blob/30794f50c655c91d7c05b2bed9a6432eb5646ee5/merge%20conflict.png])
 
 In this demo, participants will learn the basics of using Github repositories for version control, and practice the following functions:  
 - **Fork**  
