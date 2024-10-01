@@ -1,6 +1,6 @@
 ---
 title: "Github Conflict Demo"
-author: "Anna Duan"
+author: "Xian Lu and Byron"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -13,7 +13,8 @@ output:
   pdf_document:
     toc: yes
 ---
-
+##conflicts
+Everyone is kungfu fighting!
 ## Setup 
 
 
